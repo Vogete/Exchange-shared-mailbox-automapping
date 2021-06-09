@@ -1,0 +1,6 @@
+{
+    "o365User": "user@domain.com",
+    "o365UserPW": "password",
+    "mailboxGroupPrefix": "MailAccess ",
+    "mailboxGroupPostfix": " Mailbox"
+}
